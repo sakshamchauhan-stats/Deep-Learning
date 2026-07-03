@@ -23,6 +23,10 @@ The custom CNN architecture was developed as part of an experimental image class
 - PyTorch (where applicable)
 - Jupyter Notebook
 
-## Future Additions
+### Future Additions
 
 This directory will continue to expand with implementations of modern CNN architectures, performance comparisons, and transfer learning experiments.
+
+### Note
+The purpose of these notebooks is to demonstrate the implementation of classic CNN architectures on a dataset. The focus is on understanding the architecture and its implementation rather than achieving the highest possible performance. Hyperparameter tuning, model optimization, and advanced training techniques have not been applied. For a more comprehensive CNN implementation that includes preprocessing, regularization, optimization, and model improvement techniques, please refer to the **CNN for Pneumonia Detection from Chest X-Rays** notebook in this repository.
+
